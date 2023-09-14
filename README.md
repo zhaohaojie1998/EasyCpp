@@ -80,7 +80,7 @@ using namespace cpython;
 
 int main() {
     // ascii
-	auto ord('A'); // 65
+    auto ord('A'); // 65
     auto chr(65); // 'A'
     // dec -> base
     auto hex(66); // "0x42"
@@ -94,12 +94,6 @@ int main() {
     return 0;
 }
 ```
-
-
-
-
-
-
 
 ## Requirement：
 
